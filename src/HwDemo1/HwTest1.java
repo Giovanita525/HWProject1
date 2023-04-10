@@ -7,5 +7,7 @@ public class HwTest1 {
 		System.out.println("HW project batch 9");
 		
 		System.out.println("Project 1");
+		
+		System.out.println("PROJECT 1 HW 04/10");
 	}
 }
