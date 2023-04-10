@@ -10,4 +10,7 @@ public class HwTest1 {
 		
 		System.out.println("PROJECT 1 HW 04/10");
 	}
+	
+	String name = "Gio";
+	
 }
